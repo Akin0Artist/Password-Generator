@@ -47,3 +47,17 @@ button:hover{
     transform: scale(1.1);
     background-color: #b9ae9b;
 }
+@media (max-width:1023px){
+    .content{
+        width: 95%;
+        padding: 30px;
+        
+    }
+    .Button{
+        padding: 10px;
+    }
+    h2{
+        margin-bottom: 70px;
+        margin-top: 100px;
+    }
+}
